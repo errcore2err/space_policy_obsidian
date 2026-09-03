@@ -1,0 +1,4 @@
+- 2 Main cold war points regarding the launch of sputnik
+	- "The impact on public imagination of the first successful invasion and conquest of outer space"
+	- "The inferences, if any, that can be drawn about the status of their development of military rocketry"
+- 

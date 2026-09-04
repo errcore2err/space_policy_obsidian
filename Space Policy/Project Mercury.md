@@ -1,0 +1,3 @@
+- Could humans survive/work in space/orbit?
+- Eisenhower was skeptical of the value of humans in space
+- 

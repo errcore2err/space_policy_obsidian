@@ -8,3 +8,7 @@
 - NSC 5814/1, [located here](https://history.state.gov/historicaldocuments/frus1958-60v02/d442) 
 - NASA Long Reach Plan 1959
 - Recommendations for Our National Space Program: Changes, Policies, Goals 
+- US response to Sputnik Slide
+- Dwight Eisenhower, "Introduction to Outer Space", Narch 26 1958
+- NSC 6108
+- 

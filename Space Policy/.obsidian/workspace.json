@@ -139,16 +139,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Notes/Week 2.md",
+                "file": "Readings/Week 2/National Aeronautics Act of 1958.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 2"
+              "title": "National Aeronautics Act of 1958"
+            }
+          },
+          {
+            "id": "b11070cc0186cba1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readings/Week 3/Recommendations For National Space Program--Changes, Policies, Goals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Recommendations For National Space Program--Changes, Policies, Goals"
+            }
+          },
+          {
+            "id": "4f686ecb58295673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Penguin Book of Outer Space Exploration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Penguin Book of Outer Space Exploration"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -315,10 +343,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "5ebae67738987095",
+  "active": "4f686ecb58295673",
   "lastOpenFiles": [
-    "Extra Readings.md",
+    "Readings/Week 3/Recommendations For National Space Program--Changes, Policies, Goals.md",
+    "Penguin Book of Outer Space Exploration.md",
+    "Readings/Week 2/National Aeronautics Act of 1958.md",
     "Class Notes/Week 2.md",
+    "Untitled",
+    "Readings/Week 3",
+    "Extra Readings.md",
     "Project Mercury.md",
     "Space Policy Week 2.md",
     "Space Policy Week 1.md",
@@ -335,10 +368,7 @@
     "Readings/Week 2/Penguin Book of Space Exploration.md",
     "Penguin Book of Space Exploration.md",
     "useful-bits.md",
-    "Untitled",
-    "Readings/Week 2/National Aeronautics Act of 1958.md",
     "Readings/Week 2",
-    "Readings/Untitled",
     "Welcome.md",
     "Assignments",
     "Class Notes",

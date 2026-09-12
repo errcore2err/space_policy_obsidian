@@ -2,6 +2,7 @@
 	- In a time of global economic turmoil and changing threats to international security, what ARE the purposes of human space exploration?
 	- What could or should the be the purposes of human space exploration? 
 	- How should the potential benefits of human space exploration be assessed related to the resources or risks involved?
+	- 
 	
 
 
@@ -23,3 +24,11 @@
 		- what are others?
 	- Manned exploration of the moon is good for propaganda, but is essential as a step whether we are first or not. Cant' leapfrog accomplishments, as they are essential sources of knowledge and experience for even greater successes in space 
 - Space exploration -> manned space exploration as an intro? 
+
+
+- JFK assassination -> almost like a memorial 
+- Similar to development of nuclear subs--so we don't forget how
+
+
+
+- Did the soviets even really have a lunar program?

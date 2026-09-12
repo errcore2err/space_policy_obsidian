@@ -1,4 +1,4 @@
-- Ti provide for research into problems of flight within and outside the Earth's atmosphere, and for other purposes...what purposes?
+- [ ] Ti provide for research into problems of flight within and outside the Earth's atmosphere, and for other purposes...what purposes?
 - Congress declares that it is the policy of the United States that activities in space shuold be devoted to peaceful purposes for the benefit of all mankind
 - General welfare and security of the US require provision for aeronautical and space activities
 	- Space required for national security

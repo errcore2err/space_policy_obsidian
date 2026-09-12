@@ -11,4 +11,6 @@
 - US response to Sputnik Slide
 - Dwight Eisenhower, "Introduction to Outer Space", Narch 26 1958
 - NSC 6108
-- 
+
+## Week 3
+- November 1963 Special Space Report

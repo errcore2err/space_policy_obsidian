@@ -1,98 +1,37 @@
 {
   "main": {
-    "id": "edfbf4190e5da088",
+    "id": "deb5323de756abf6",
     "type": "split",
     "children": [
       {
-        "id": "b2882e70f6a5e4a5",
+        "id": "32981e76352b2135",
         "type": "tabs",
         "children": [
           {
-            "id": "4f686ecb58295673",
+            "id": "1ca192705e1b6f99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readings/Week 3/Transcript of Presidential Meeting.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Transcript of Presidential Meeting"
-            }
-          },
-          {
-            "id": "daec9ff0786b35f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extra Readings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Extra Readings"
-            }
-          },
-          {
-            "id": "d4cc95f23c4f5e35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readings/Week 3/Transcript of Presidential Meeting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transcript of Presidential Meeting"
-            }
-          },
-          {
-            "id": "2a6f1667b3ffa736",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assignment 1 Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Assignment 1 Notes"
-            }
-          },
-          {
-            "id": "6c54948c2d4fca41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extra Readings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Extra Readings"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d33f4de009ebc4b2",
+    "id": "814f5bb5df0a9f62",
     "type": "split",
     "children": [
       {
-        "id": "9cf63ab9dd10795f",
+        "id": "92a07705a360568b",
         "type": "tabs",
         "children": [
           {
-            "id": "b7d719b7c20b0d84",
+            "id": "94880dd0e89fa718",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -107,7 +46,7 @@
             }
           },
           {
-            "id": "d7714eae5b64366b",
+            "id": "7810cd7758956d7a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -124,7 +63,7 @@
             }
           },
           {
-            "id": "5e3ff87361d054a2",
+            "id": "d627c66beb6ee04f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -140,23 +79,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "0d83b2d8804bbe85",
+    "id": "1893ecb4d717bf77",
     "type": "split",
     "children": [
       {
-        "id": "9dd1c7a2a14dfc8b",
+        "id": "663b146dfe0c08ec",
         "type": "tabs",
         "children": [
           {
-            "id": "f04fa7ade3582a4c",
+            "id": "cb346804096b9c5d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Space Policy Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,12 +108,11 @@
             }
           },
           {
-            "id": "892709b78b450a58",
+            "id": "a3ae5f09d1547126",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Space Policy Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -184,7 +121,7 @@
             }
           },
           {
-            "id": "73e8499e49e3a9ff",
+            "id": "a83a2145d95416e4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -199,7 +136,7 @@
             }
           },
           {
-            "id": "1fc6b1f324f4390e",
+            "id": "9d0da878b64849bd",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -213,12 +150,11 @@
             }
           },
           {
-            "id": "586874197832b575",
+            "id": "1c18579c24019771",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Space Policy Week 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -245,39 +181,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "6c54948c2d4fca41",
+  "active": "1ca192705e1b6f99",
   "lastOpenFiles": [
-    "Readings/Week 2/Penguin Book of Space Exploration.md",
-    "Assignment 1 Notes.md",
-    "Readings/Week 2/National Aeronautics Act of 1958.md",
-    "Readings/Week 2/Cover Stories and Hidden Agendas.md",
-    "Readings/Week 2/Beyond the Atmosphere.md",
-    "Readings/Week 3/Perceptions of Apollo.md",
-    "Readings/Week 3/John F. Kennedy and the Race to the Moon.md",
-    "Readings/Week 3/Apollo's Legacy--Perspectives on Moon Landings.md",
-    "Space Policy Week 1.md",
-    "Extra Readings.md",
-    "Space Policy Week 2.md",
-    "Readings/Week 3/Recommendations For National Space Program--Changes, Policies, Goals.md",
-    "Readings/Week 3/Transcript of Presidential Meeting.md",
-    "Readings/Week 2/NSC 5520 Memo.md",
-    "Look-Ups.md",
-    "Penguin Book of Outer Space Exploration.md",
-    "Class Notes/Week 2.md",
-    "Untitled",
-    "Readings/Week 3",
-    "Project Mercury.md",
-    "Policy.md",
-    "ICBM.md",
-    "hello.md",
-    "Apollo program.md",
-    "category 15 export controls.md",
-    "Penguin Book of Space Exploration.md",
-    "useful-bits.md",
-    "Readings/Week 2",
-    "Welcome.md",
-    "Assignments",
-    "Class Notes",
-    "Readings"
+    "Space Policy/Readings/Week 3/Apollo's Legacy--Perspectives on Moon Landings.md",
+    "Space Policy/Apollo's Legacy--Perspectives on Moon Landings.md",
+    "Space Policy/Untitled.md",
+    "Space Policy/Readings/Week 3/Recommendations For National Space Program--Changes, Policies, Goals.md",
+    "Space Policy/Recommendations For National Space Program--Changes, Policies, Goals.md",
+    "Space Policy/Readings/Week 3/Transcript of Presidential Meeting.md",
+    "Space Policy/Readings/Week 3/Perceptions of Apollo.md",
+    "Space Policy/Perceptions of Apollo.md",
+    "Space Policy/Readings/Week 3/John F. Kennedy and the Race to the Moon.md",
+    "Space Policy/John F. Kennedy and the Race to the Moon.md"
   ]
 }
